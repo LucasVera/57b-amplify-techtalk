@@ -1,0 +1,50 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-57bamplify-dev-162203-authRole",
+            "UnauthRoleArn": "arn:aws:iam::704834228404:role/amplify-57bamplify-dev-162203-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::704834228404:role/amplify-57bamplify-dev-162203-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-57bamplify-dev-162203-deployment",
+            "UnauthRoleName": "amplify-57bamplify-dev-162203-unauthRole",
+            "StackName": "amplify-57bamplify-dev-162203",
+            "StackId": "arn:aws:cloudformation:us-east-1:704834228404:stack/amplify-57bamplify-dev-162203/d63fd0c0-07a8-11ed-8101-0ef89a340529",
+            "AmplifyAppId": "d2q4uw4k40sg2w"
+        },
+        "categories": {
+            "auth": {
+                "57bamplifyc4ee7760": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2q4uw4k40sg2w",
+                    "type": "manual"
+                }
+            }
+        }
+    },
+    "prd": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-57bamplify-prd-170145-authRole",
+            "UnauthRoleArn": "arn:aws:iam::704834228404:role/amplify-57bamplify-prd-170145-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::704834228404:role/amplify-57bamplify-prd-170145-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-57bamplify-prd-170145-deployment",
+            "UnauthRoleName": "amplify-57bamplify-prd-170145-unauthRole",
+            "StackName": "amplify-57bamplify-prd-170145",
+            "StackId": "arn:aws:cloudformation:us-east-1:704834228404:stack/amplify-57bamplify-prd-170145/61f39250-07ae-11ed-b7f2-0ede34517f27",
+            "AmplifyAppId": "d2q4uw4k40sg2w"
+        },
+        "categories": {
+            "auth": {
+                "57bamplifyc4ee7760": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2q4uw4k40sg2w",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
